@@ -6,3 +6,5 @@ def filling
 end
 
 puts 'Heloo!'
+
+puts '1'
